@@ -16,7 +16,7 @@ A versatile Arduino project for matrix operations using a keypad and an LCD disp
 
 This Arduino project is designed for integer matrix operations, allowing users to perform matrix transposition and multiplication with the help of a keypad and an LCD display. It provides a user-friendly interface for entering matrix dimensions and values.
 
-##Video
+## Video
 
 You can find A video of it working on my LinkedIn [https://www.linkedin.com/posts/basel-sayed-b11534243_arduino-opensource-matrixoperations-activity-7173627131460096001-TM3p?utm_source=share&utm_medium=member_desktop].
 
